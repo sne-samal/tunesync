@@ -1,6 +1,6 @@
 # tunesync
 ## Project Introduction:
-tunesync is a web application built using django and react js, it makes use of material ui components and icons
+tunesync is a web application built using django and react js, it makes use of material ui components and icons.
 It allows users to join a room via a room code and collectively listen to music provided by the host.
 Users can vote to skip the current playing song and can optionally play/pause the music.
 The host can customise the room settigs, they can:
